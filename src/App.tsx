@@ -10,7 +10,6 @@ const ParentDiv=styled.div`
 `;
 
 export default function App(){
-
     // useState Hook to store Data.
     const [data, setData] = useState<Character[]>([]);
 

@@ -6,6 +6,4 @@ export interface Character{
     status: string;
     type: string;
     gender: string;
-    created: string;
 }
-
